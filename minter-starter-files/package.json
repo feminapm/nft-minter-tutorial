@@ -1,6 +1,5 @@
 {
-  "name": "minter-starter-files",
-  "homepage":".",
+  "name": "nft-minter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
